@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:animateLayoutChanges="true"
-    android:background="@drawable/grad_bg"
+    android:background="@color/backgroundmain"
     android:id="@+id/splashlogo">
 
     <LinearLayout
