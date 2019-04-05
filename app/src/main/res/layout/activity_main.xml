@@ -36,7 +36,7 @@
         android:drawablePadding="8dp"
         android:drawableLeft="@drawable/ic_search_gray_24dp"
         android:textColor="@color/content_text_color"
-        android:hint="search"
+        android:hint="Search"
         android:background="@drawable/search_input_style"
         android:id="@+id/search_input"
         android:layout_width="0dp"
